@@ -1,3 +1,15 @@
+
+🗓 Dia 9 - Componentes Controlados e Não Controlados (4-5h)
+ Trabalhando com inputs controlados em React
+ Usando useRef para acessar valores sem alterar o state
+
+🎯 Tarefa: Criar um formulário de login com campos controlados e não controlados
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
